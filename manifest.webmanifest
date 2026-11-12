@@ -1,0 +1,1 @@
+{"name":"CHRIZ Card AR","short_name":"CHRIZ AR","description":"Prototipo privato di magia digitale con carte reali","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#08090e","theme_color":"#08090e","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
